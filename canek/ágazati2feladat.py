@@ -1,0 +1,1 @@
+#hossza, maximumkeresés, szótár --> 3. feladat

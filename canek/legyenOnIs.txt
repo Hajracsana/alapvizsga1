@@ -1,0 +1,61 @@
+Melyik egy nemzetközi hírnevű magyar étel neve?
+kanász
+kondás
+gulyás*
+
+Milyen pitypangnak hívják a gyermekláncfüvet?
+pongyola*
+patyolat
+pipogya
+
+Egészítsd ki a híres novella címét! "Mario és a ........."
+boszorkány
+varázsló*
+kiválasztott
+
+Mit neveztek régen indóháznak?
+festőműhelyt
+telefonközpontot
+vasútállomást*
+
+Ki rendezte az Titanic című 1997-ben készült filmet?
+Steven Spielberg
+Ridley Scott
+James Cameron
+
+Melyik Erkel operában hangzik el a Palotás?
+Hunyadi László
+Bánk Bán
+Dózsa György
+
+Milyen mára elavult jelentése volt évszázadokkal ezelőtt a "marha" szónak?
+vagyon
+család
+ügyetlen
+
+Mennyi a fény terjedési sebessége levegőben, légüres térben?
+300 000 km/h
+300 000 km/s
+30 000 m/s
+
+Milyen állat a kazuár?
+hüllő
+macskaféle
+madár
+
+Hányszor kell körbejárnia egy iszlám hívőnek Mekkában a Kába-követ?
+hétszer
+ötször
+háromszor
+
+Melyik sportág kiválósága volt Varjú Vilmos?
+birkózás
+ökölvívás
+súlylökés
+
+Milyen nemzetiségű volt Jean Sibelius zeneszerző?
+német
+belga
+finn
+
+nyeremény=["10 000","20 000","50 000","100 000", "250 000","500 000","750 000","1 000 000","1 500 000","2 000 000","5 000 000","10 000 000","15 000 000","20 000 000","50 000 000"]
